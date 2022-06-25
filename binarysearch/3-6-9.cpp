@@ -18,7 +18,7 @@ bool containsClapNumber(int n)
     return false;
 }
 
-vector<string> solve(int n)
+vector<string> three_six_nine(int n)
 {
     vector<string> numbers;
     if (n == 0)
