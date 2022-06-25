@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int solve(int n)
+int nth_fibonacci_number(int n)
 {
     int a = 1, b = a, c = a + b;
     if (n == 1)
