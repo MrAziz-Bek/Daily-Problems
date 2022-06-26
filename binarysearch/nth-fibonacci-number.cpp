@@ -10,14 +10,11 @@ int nth_fibonacci_number(int n)
         return a;
     else if (n == 2)
         return b;
-    else
+    for (int i = 3; i <= n; i++)
     {
-        for (int i = 3; i <= n; i++)
-        {
-            c = a + b;
-            a = b;
-            b = c;
-        }
-        return c;
+        c = a + b;
+        a = b;
+        b = c;
     }
+    return c;
 }
