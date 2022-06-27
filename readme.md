@@ -1,3 +1,3 @@
 # The best way to escape your problems is to solve them!
 
-![](khaby-really.gif)
+![Alt text](khaby-really.gif) / ![](khaby-really.gif)
