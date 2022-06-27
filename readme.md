@@ -1,3 +1,3 @@
 # The best way to escape your problems is to solve them!
 
-![Alt text](khaby-really.gif) / ![](khaby-really.gif)
+![Alt text](https://tenor.com/bB0AW.gif)
