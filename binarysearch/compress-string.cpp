@@ -9,13 +9,8 @@ string compress_string(string str)
     int count = 1;
     for (int i = 0; i < str.length(); i++)
     {
-        if (str[i] == str[i + 1])
-            count++;
-        else
-        {
+        if (str[i] != str[i + 1])
             res += str[i];
-            count = 1;
-        }
     }
     return res;
 }
