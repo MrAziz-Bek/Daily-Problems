@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int merging_two_sorted_lists(vector<int> &a, vector<int> &b)
+vector<int> merging_two_sorted_lists(vector<int> &a, vector<int> &b)
 {
     int i = 0, j = 0;
     vector<int> res;
