@@ -18,7 +18,5 @@ int longest_consecutive_duplicate_string(string s)
             count = 1;
         }
     }
-    int longest = prev > count ? prev : count;
-
-    return longest;
+    return prev;
 }
