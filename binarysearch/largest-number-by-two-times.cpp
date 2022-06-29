@@ -3,7 +3,7 @@
 
 using namespace std;
 
-bool largest_number_by_2_times(vector<int> nums)
+bool largest_number_by_2_times(vector<int>& nums)
 {
     int max1 = nums[0] > nums[1] ? nums[0] : nums[1];
     int max2 = nums[1] < nums[0] ? nums[1] : nums[0];

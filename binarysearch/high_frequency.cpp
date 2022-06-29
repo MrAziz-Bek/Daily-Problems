@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int high_frequency(vector<int> nums)
+int high_frequency(vector<int>& nums)
 {
     unordered_map<int, int> map;
     int max_frequency = 0;

@@ -3,7 +3,7 @@
 
 using namespace std;
 
-bool strictly_increasing_or_decreasing(vector<int> nums)
+bool strictly_increasing_or_decreasing(vector<int>& nums)
 {
     long n = nums.size();
     
