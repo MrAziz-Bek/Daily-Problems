@@ -3,7 +3,7 @@
 
 using namespace std;
 
-vector<int> quick_sort(vector<int> &nums)
+vector<int> square_of_a_list(vector<int> &nums)
 {
     int n = nums.size();
 
