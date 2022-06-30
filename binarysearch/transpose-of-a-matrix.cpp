@@ -3,7 +3,7 @@
 
 using namespace std;
 
-vector<vector<int>> solve(vector<vector<int>> &matrix)
+vector<vector<int>> transpose_of_a_matrix(vector<vector<int>> &matrix)
 {
     for (int i = 0; i < matrix.size(); i++)
     {
