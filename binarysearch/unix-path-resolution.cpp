@@ -1,7 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <cstring>
-#include <stack>
 
 using namespace std;
 
