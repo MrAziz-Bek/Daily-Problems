@@ -1,5 +1,4 @@
 using System.Diagnostics;
-namespace OjProblems;
 
 public class Solutions
 {
